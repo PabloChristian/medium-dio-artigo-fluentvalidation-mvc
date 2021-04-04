@@ -1,5 +1,5 @@
 # Fluent Validation - Projeto MVC
-Repositório do meu artigo no Medium e Digital Innovation One: 'Validando dados com Fluent Validation', contendo todas as implementações e demonstrações efetuadas
+Repositório do projeto MVC do meu artigo no Medium e Digital Innovation One: 'Validando dados com Fluent Validation', contendo todas as implementações e demonstrações efetuadas
 
 ## Introdução
 O Fluent Validation é uma biblioteca disponível para o .NET/.NET Core (incluindo também as versões mais recentes), para realizar validação de classes usadas como View Models, Commands (conceito de CQRS), DTOs (objetos de transferência de dados), ou entidades de domínios.
